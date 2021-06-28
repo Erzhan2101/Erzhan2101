@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+Hi, my name is Erzhan. I'm from Kyrgyzstan.
+I am a beginner Full Stack developer.
+
+About me!
+
+I was born in 1998 on January 21, grew up in the city of Bishkek.
+
+What i can do now.
+
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> >> HTML - I know 75%
+
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> >> CSS - I know 65%
+
+- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> >> SASS - I know 65%
+
+
+
+
+
+
 <!--
 **Erzhan2101/Erzhan2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
