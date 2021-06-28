@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋  <img align="right" alt="GIF" src="https://i.ibb.co/xYMgcRn/Whats-App-Image-2021-06-28-at-20-26-36.jpg" width="350" />
 
 Hi, my name is Erzhan. I'm from Kyrgyzstan.
+
 I am a beginner Full Stack developer.
 
 About me!
