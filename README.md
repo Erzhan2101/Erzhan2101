@@ -19,7 +19,7 @@ I'm Taalaibekov Erzhan. I'm a Full Stack Developer.
 
 **Me Around the Web 📱:**
 
-<a href="linkedin.com/in/erzhan-taalaibekov-2753921b7">**Linkedin**</a>
+<a href="https://linkedin.com/in/erzhan-taalaibekov-2753921b7">**Linkedin**</a>
 <a href="https://t.me/Erzhan_Taalaibekov">**Telegarm**</a>
 
 
