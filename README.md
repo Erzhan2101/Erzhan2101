@@ -2,7 +2,7 @@ I'm Taalaibekov Erzhan. I'm a Full Stack Developer.
 
 **Things You Should know about Me!**
 - ✍🏻 I often write in my leisure time.
-- 📧 Reach me out at erzhan2101@gmail.com .
+- 📧 Reach me out at erzhan210198@gmail.com .
 - 🤝🏻 Always open for collaboration.
 
 **Technologies I frequently use:**
